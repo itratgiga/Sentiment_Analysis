@@ -105,49 +105,6 @@ This project can be improved by:
 
 ---
 
-## ▶️ How to Run the Project
-
-### Step 1: Install Required Libraries
-
-```bash
-pip install pandas textblob matplotlib seaborn
-```
-
-### Step 2: Download TextBlob Corpora
-
-```bash
-python -m textblob.download_corpora
-```
-
-### Step 3: Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### Step 4: Open `analysis.ipynb`
-
-Run all cells sequentially.
-
----
-
-## 📁 Project Structure
-
-```plaintext
-SentimentAnalysis_Itrat/
-│── analysis.ipynb
-│── Reviews.csv
-│── README.md
-│── summary.pdf
-│
-└── charts/
-    │── bar_chart.png
-    │── pie_chart.png
-    │── word_frequency.png
-```
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates how sentiment analysis can be used to extract meaningful insights from customer reviews. It helps businesses understand customer satisfaction and improve products based on feedback.
