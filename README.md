@@ -113,6 +113,9 @@ This project demonstrates how sentiment analysis can be used to extract meaningf
 
 ## 👩‍💻 Author
 
-**Itrat Zehra Giga**
+**Itrat Zehra Giga**    
 
 ```
+Internship Project — Sentiment Analysis
+
+
